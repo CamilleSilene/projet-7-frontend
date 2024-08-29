@@ -1,4 +1,4 @@
-# Mon vieux Grimoire
+# Projet 7 - Mon vieux Grimoire - FRONTEND
 
 
 ## Comment lancer le projet ? 
